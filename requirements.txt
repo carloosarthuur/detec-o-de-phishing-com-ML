@@ -1,0 +1,13 @@
+# --- Manipulação de Dados ---
+pandas
+
+# --- Requisições de Rede e Web Scraping ---
+requests
+beautifulsoup4
+
+# --- Extração de Atributos de Domínio ---
+python-whois
+dnspython
+
+# --- Machine Learning ---
+scikit-learn
